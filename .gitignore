@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+
+# Research datasets and intermediate artifacts
+TruthLens_Data/
+TruthLens_Artifacts/
+TruthLens_Stage_3/
+TruthLens_Stage_4/
+TruthLens_Stage_5/
+TruthLens_Stage_6/
+
+# Private credentials
+secrets.toml
